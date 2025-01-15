@@ -1,16 +1,23 @@
+# Site Settings
 title: "Kyla's Portfolio"
-avatar: /assets/IMG_1195.jpg
-description: "Hi! I'm Kyla and currently a Second Year Computer Science student at Douglas College."
-
+description: "Welcome to my portfolio showcasing my game development projects, research, and VR game development work."
 author:
-  name             : "Zin Wai (Kyla) Myint"
-  pronouns         : "she/her"  
-  location         : "Vancouver, Canada"
-  email            : "zinwaimyint23@gmail.ccom" 
+  name: "Zin Wai (Kyla) Myint"
+  email: "zinwaimyint23@gmail.com"
+  location: "Vancouver, Canada"
+  pronouns: "she/her"
+  photo: /assets/IMG_1195.jpg  # Replace with the correct path to your image
+  bio: "Game Developer | VR Researcher | ESL Learning Enthusiast"
 
+# Theme Settings
+theme: jekyll-theme-minimal
+dark_mode: true
+accent_color: "#A0B682"
+
+# Navigation Links
 nav:
   - title: Home
-    url: /  
+    url: /
   - title: Projects
     url: /projects
   - title: About Me
@@ -18,16 +25,20 @@ nav:
   - title: Contact
     url: /contact
 
-theme: jekyll-theme-minimal 
-dark_mode: true  
-accent_color: "#A0B682"
+# Build Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
 
-social:
-  - icon: "github"
-    url: "https://github.com/yourusername"
-  - icon: "linkedin"
-    url: "https://www.linkedin.com/in/yourusername/"
-
-sass:
-  style: compressed
-custom_css: /assets/custom.css
+# Plugins (Optional)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar  # For author avatars

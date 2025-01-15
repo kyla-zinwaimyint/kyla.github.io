@@ -14,7 +14,7 @@ nav:
   - title: Contact
     url: /contact
 
-theme: freelancer 
+theme: chirpy 
 dark_mode: false  
 accent_color: "#A0B682"
 

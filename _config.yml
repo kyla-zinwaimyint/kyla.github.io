@@ -1,9 +1,8 @@
-itle: "Kyla's Portfolio"
-photo: /assets/IMG_1195.jpg
+title: "Kyla's Portfolio"
+photo: /assets/IMG_1195.heic
 description: "Hi! I'm Kyla and welcome to my portfolio showcasing my game development projects, research, and VR game development work."
 
 author:
-  avatar           : /assets/IMG_1195.jpg
   name             : Zin Wai (Kyla) Myint
   pronouns         : "she/her"  
   bio              : I am a Second Year Computing Science 

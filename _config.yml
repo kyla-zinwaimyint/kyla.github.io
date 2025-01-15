@@ -6,7 +6,7 @@ author:
   email: "zinwaimyint23@gmail.com"
   location: "Vancouver, Canada"
   pronouns: "she/her"
-  photo: /assets/IMG_1195.jpg  # Replace with the correct path to your image
+  photo: ./assets/IMG_1195.jpg 
   bio: "Game Developer | VR Researcher | ESL Learning Enthusiast"
 
 # Theme Settings

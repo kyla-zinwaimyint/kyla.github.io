@@ -2,7 +2,7 @@ title: "Kyla's Portfolio"
 description: "Welcome to my portfolio showcasing my game development projects, research, and VR game development work."
 author:
   name: "Zin Wai (Kyla) Myint"
-  photo: /assets/IMG_1195.jpg
+  photo: assets/IMG_1195.jpg
 
 nav:
   - title: Home

@@ -1,12 +1,11 @@
 title: "Kyla's Portfolio"
-photo: /assets/IMG_1195.heic
-description: "Hi! I'm Kyla and welcome to my portfolio showcasing my game development projects, research, and VR game development work."
+avatar: assets/IMG_1195.heic
+description: "Hi! I'm Kyla and currently a Second Year Computer Science student at Douglas College."
 
 author:
-  name             : Zin Wai (Kyla) Myint
+  name             : "Zin Wai (Kyla) Myint"
   pronouns         : "she/her"  
-  bio              : I am a Second Year Computing Science 
-  location         : Vancouver, Canada
+  location         : "Vancouver, Canada"
   email            : "zinwaimyint23@gmail.ccom" 
 
 nav:
@@ -29,5 +28,59 @@ social:
   - icon: "linkedin"
     url: "https://www.linkedin.com/in/yourusername/"
 
-markdown: kramdown
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 paginate: 5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+# Mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji

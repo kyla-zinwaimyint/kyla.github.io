@@ -9,36 +9,4 @@ author:
   photo: ./assets/IMG_1195.jpg 
   bio: "Game Developer | VR Researcher | ESL Learning Enthusiast"
 
-# Theme Settings
 theme: jekyll-theme-cayman
-dark_mode: true
-accent_color: "#A0B682"
-
-# Navigation Links
-nav:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
-  - title: About Me
-    url: /about
-  - title: Contact
-    url: /contact
-
-# Build Settings
-markdown: kramdown
-kramdown:
-  input: GFM
-permalink: pretty
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
-
-# Plugins (Optional)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-avatar  # For author avatars

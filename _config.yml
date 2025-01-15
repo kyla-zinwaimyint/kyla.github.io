@@ -1,8 +1,13 @@
 title: "Kyla's Portfolio"
-description: "Welcome to my portfolio showcasing my game development projects, research, and VR game development work."
+description: "Hi! I'm Kyla and welcome to my portfolio showcasing my game development projects, research, and VR game development work."
+
 author:
-  name: "Zin Wai (Kyla) Myint"
-  photo: assets/IMG_1195.jpg
+  avatar           : /assets/IMG_1195.jpg
+  name             : Zin Wai (Kyla) Myint
+  pronouns         : "she/her"  
+  bio              : I am a Second Year Computing Science 
+  location         : Vancouver, Canada
+  email            : "zinwaimyint23@gmail.ccom" 
 
 nav:
   - title: Home
@@ -15,7 +20,7 @@ nav:
     url: /contact
 
 theme: jekyll-theme-minimal 
-dark_mode: false  
+dark_mode: true  
 accent_color: "#A0B682"
 
 social:

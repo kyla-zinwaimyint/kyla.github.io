@@ -10,7 +10,7 @@ author:
   bio: "Game Developer | VR Researcher | ESL Learning Enthusiast"
 
 # Theme Settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 dark_mode: true
 accent_color: "#A0B682"
 

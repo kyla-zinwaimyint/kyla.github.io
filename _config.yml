@@ -1,0 +1,28 @@
+title: "Kyla's Portfolio"
+description: "Welcome to my portfolio showcasing my game development projects, research, and VR game development work."
+author:
+  name: "Zin Wai (Kyla) Myint"
+  photo: /images/your-photo.jpg
+
+nav:
+  - title: Home
+    url: /  
+  - title: Projects
+    url: /projects
+  - title: About Me
+    url: /about
+  - title: Contact
+    url: /contact
+
+theme: freelancer 
+dark_mode: false  
+accent_color: "#A0B682"
+
+social:
+  - icon: "github"
+    url: "https://github.com/yourusername"
+  - icon: "linkedin"
+    url: "https://www.linkedin.com/in/yourusername/"
+
+markdown: kramdown
+paginate: 5

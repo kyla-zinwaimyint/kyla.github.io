@@ -67,8 +67,7 @@ that will find you and catch you. To escape, players must memorize the rooms tha
   + Implement a more sophisticated AI system that learns and adapts to the player's behavior, making enemy encounters more challenging and personalized,
     thus increasing replayability and tension.
 
-#### Gamplay Video
-https://drive.google.com/file/d/1e9SB8PF8phzpCXCmJXucDg8Nngt0fY0z/view?usp=sharing
+#### Gamplay Video (https://drive.google.com/file/d/1e9SB8PF8phzpCXCmJXucDg8Nngt0fY0z/view?usp=sharing)
 
 ---
 ### Mini Games Project

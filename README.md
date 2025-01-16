@@ -4,36 +4,14 @@ Below, you'll find an overview of each project I've developed using Unreal Engin
 
 ## **Table of Contents**
 - [Projects Overview](#projects-overview)
-  - [MetaHuman VR Research Project](#metahuman-vr-research-project)
   - [Horror Game Project](#horror-game-project)
+  - [MetaHuman VR Research Project](#metahuman-vr-research-project)
   - [Mini Games Project](#mini-games-project)
   - [Mini Arcade Machine Project](#mini-arcade-machine-project)
 - [Contact](#contact)
 
 ## Projects Overview
-### MetaHuman VR Research Project
-#### Overview
-+ **Genre**: Adventurous/ Educational VR game for Language Learning
-+ **Platform**: Developed using Unreal Engine 5.4.2 (Blueprint)
-  
-**Description**: This is the project I'm working on as a Research Assistant at the college. The game is about immersive adventurous journey designed to help players learn English as a second language through exploration, interaction, and challenge. In this VR experience, players navigate through various dynamic environments, engaging in quests that focus on building vocabulary, grammar and practicing sentence structure. Along the way, they’ll encounter multiple mini-games and mulitple choice questions that test their language skills in creative and interactive ways. 
 
-#### Key Features
-+ **Metahuman Avatars**:
-  + Lifelike Metahuman characters for NPCs and the player's avatar.
-  + NPCs guide players, provide tasks, and simulate real-life English conversations.
-+ **Immersive Learning Environment**:
-  + A fully interactive VR world that combines adventure and education to create an engaging experience for learning English.
-  + Realistic environments designed to encourage exploration and enhance language comprehension.
-+ **Vocabulary, Grammar and Sentence Construction through Gameplay**:
-  + Mini-games and challenges to teach and reinforce English vocabulary, including:
-    + Object-identification tasks
-    + Multiple Choice Questions
-
-#### Gameplay Video Peak
-**Coming Soon**
-
----
 ### Horror Game Project
 #### Overview
 + **Genre**: Horror/ Thriller
@@ -67,7 +45,30 @@ that will find you and catch you. To escape, players must memorize the rooms tha
   + Implement a more sophisticated AI system that learns and adapts to the player's behavior, making enemy encounters more challenging and personalized,
     thus increasing replayability and tension.
 
-#### Gamplay Video (https://drive.google.com/file/d/1e9SB8PF8phzpCXCmJXucDg8Nngt0fY0z/view?usp=sharing)
+#### [Gamplay Video](https://drive.google.com/file/d/1e9SB8PF8phzpCXCmJXucDg8Nngt0fY0z/view?usp=sharing)
+
+---
+### MetaHuman VR Research Project
+#### Overview
++ **Genre**: Adventurous/ Educational VR game for Language Learning
++ **Platform**: Developed using Unreal Engine 5.4.2 (Blueprint)
+  
+**Description**: This is the project I'm working on as a Research Assistant at the college. The game is about immersive adventurous journey designed to help players learn English as a second language through exploration, interaction, and challenge. In this VR experience, players navigate through various dynamic environments, engaging in quests that focus on building vocabulary, grammar and practicing sentence structure. Along the way, they’ll encounter multiple mini-games and mulitple choice questions that test their language skills in creative and interactive ways. 
+
+#### Key Features
++ **Metahuman Avatars**:
+  + Lifelike Metahuman characters for NPCs and the player's avatar.
+  + NPCs guide players, provide tasks, and simulate real-life English conversations.
++ **Immersive Learning Environment**:
+  + A fully interactive VR world that combines adventure and education to create an engaging experience for learning English.
+  + Realistic environments designed to encourage exploration and enhance language comprehension.
++ **Vocabulary, Grammar and Sentence Construction through Gameplay**:
+  + Mini-games and challenges to teach and reinforce English vocabulary, including:
+    + Object-identification tasks
+    + Multiple Choice Questions
+
+#### Gameplay Video Peak
+**Coming Soon**
 
 ---
 ### Mini Games Project
@@ -77,8 +78,7 @@ that will find you and catch you. To escape, players must memorize the rooms tha
   
 **Description**: I developed this thrilling endless runner game during my Game Development course, demonstrating with memorable features and smooth mechanics. The game navigates vibrant environments filled with obstacles and collect coins and it will speed up as you reach further distance, pushing your reflexes to the limit. The player can jump, slide and dodge to navigate an ever-changing landscape and can track the player's highest score so the player can always aim to beat his personal best.
 
-#### Gamplay Video
-https://drive.google.com/file/d/1NRaIfSvjsEWrx9YyGxCKQWXgRMCgCtib/view?usp=sharing
+#### [Gamplay Video](https://drive.google.com/file/d/1NRaIfSvjsEWrx9YyGxCKQWXgRMCgCtib/view?usp=sharing)
 
 ---
 ### Mini Arcade Machine Project
@@ -97,9 +97,8 @@ https://drive.google.com/file/d/1NRaIfSvjsEWrx9YyGxCKQWXgRMCgCtib/view?usp=shari
   + Displaying the players’ names, scores and remaining time and 
   + Interactive GUI for player input and feedback
 
-#### Project Videos
-https://drive.google.com/file/d/1Hv9FRHGapmMuh2YJPzhW9YzlhMZfAjlx/view?usp=sharing
-https://drive.google.com/file/d/1pIvV9TPmFaFpcf55Xzan4YlX_XgmgEmT/view?usp=sharing
+#### [Project Video 1](https://drive.google.com/file/d/1Hv9FRHGapmMuh2YJPzhW9YzlhMZfAjlx/view?usp=sharing)
+    [Project Video 2](https://drive.google.com/file/d/1pIvV9TPmFaFpcf55Xzan4YlX_XgmgEmT/view?usp=sharing)
 
 ---
 ### Contact

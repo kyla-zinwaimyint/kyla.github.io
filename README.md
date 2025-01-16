@@ -6,7 +6,7 @@ Below, you'll find an overview of each project I've developed using Unreal Engin
 - [Projects Overview](#projects-overview)
   - [Horror Game Project](#horror-game-project)
   - [MetaHuman VR Research Project](#metahuman-vr-research-project)
-  - [Mini Game](#mini-game)
+  - [Mini Game Project](#mini-game-project)
   - [Mini Arcade Machine Project](#mini-arcade-machine-project)
 - [Contact](#contact)
 
@@ -71,7 +71,7 @@ that will find you and catch you. To escape, players must memorize the rooms tha
 **Coming Soon**
 
 ---
-### Mini Game
+### Mini Game Project
 #### Overview
 + **Genre**: Endless Runner
 + **Platform**: Developed using Unreal Engine 5.4.2 (Blueprint)

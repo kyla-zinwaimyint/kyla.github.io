@@ -1,4 +1,5 @@
-https://github.com/kyla-zinwaimyint/kyla.github.io/blob/29d6d213fffc62fe715ad97fb94fbd912ded6aaf/assets/IMG_1195.jpg
+![IMG_1195](https://github.com/user-attachments/assets/92e65324-19ee-4f26-a826-2a8750afd8c4)
+
 ## Unreal Engine/ C++ Developer
 This is a collection of various projects I’ve developed, primarily focusing on game development and educational tools. 
 Below, you'll find an overview of each project I've developed using Unreal Engine and Raspberry Pi.

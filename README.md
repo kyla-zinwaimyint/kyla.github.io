@@ -6,7 +6,7 @@ Below, you'll find an overview of each project I've developed using Unreal Engin
 - [Projects Overview](#projects-overview)
   - [Horror Game Project](#horror-game-project)
   - [MetaHuman VR Research Project](#metahuman-vr-research-project)
-  - [Mini Games Project](#mini-games-project)
+  - [Mini Game](#mini-game)
   - [Mini Arcade Machine Project](#mini-arcade-machine-project)
 - [Contact](#contact)
 
@@ -45,7 +45,7 @@ that will find you and catch you. To escape, players must memorize the rooms tha
   + Implement a more sophisticated AI system that learns and adapts to the player's behavior, making enemy encounters more challenging and personalized,
     thus increasing replayability and tension.
 
-#### [Gamplay Video](https://drive.google.com/file/d/1e9SB8PF8phzpCXCmJXucDg8Nngt0fY0z/view?usp=sharing)
+#### [View Gamplay Video](https://drive.google.com/file/d/1e9SB8PF8phzpCXCmJXucDg8Nngt0fY0z/view?usp=sharing)
 
 ---
 ### MetaHuman VR Research Project
@@ -71,14 +71,14 @@ that will find you and catch you. To escape, players must memorize the rooms tha
 **Coming Soon**
 
 ---
-### Mini Games Project
+### Mini Game
 #### Overview
 + **Genre**: Endless Runner
 + **Platform**: Developed using Unreal Engine 5.4.2 (Blueprint)
   
 **Description**: I developed this thrilling endless runner game during my Game Development course, demonstrating with memorable features and smooth mechanics. The game navigates vibrant environments filled with obstacles and collect coins and it will speed up as you reach further distance, pushing your reflexes to the limit. The player can jump, slide and dodge to navigate an ever-changing landscape and can track the player's highest score so the player can always aim to beat his personal best.
 
-#### [Gamplay Video](https://drive.google.com/file/d/1NRaIfSvjsEWrx9YyGxCKQWXgRMCgCtib/view?usp=sharing)
+#### [View Gamplay Video](https://drive.google.com/file/d/1NRaIfSvjsEWrx9YyGxCKQWXgRMCgCtib/view?usp=sharing)
 
 ---
 ### Mini Arcade Machine Project
@@ -97,8 +97,8 @@ that will find you and catch you. To escape, players must memorize the rooms tha
   + Displaying the players’ names, scores and remaining time and 
   + Interactive GUI for player input and feedback
 
-#### [Project Video 1](https://drive.google.com/file/d/1Hv9FRHGapmMuh2YJPzhW9YzlhMZfAjlx/view?usp=sharing)
-#### [Project Video 2](https://drive.google.com/file/d/1pIvV9TPmFaFpcf55Xzan4YlX_XgmgEmT/view?usp=sharing)
+#### [View Project Video 1](https://drive.google.com/file/d/1Hv9FRHGapmMuh2YJPzhW9YzlhMZfAjlx/view?usp=sharing)
+#### [View Project Video 2](https://drive.google.com/file/d/1pIvV9TPmFaFpcf55Xzan4YlX_XgmgEmT/view?usp=sharing)
 
 ---
 ### Contact

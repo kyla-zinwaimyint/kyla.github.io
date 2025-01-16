@@ -98,7 +98,7 @@ that will find you and catch you. To escape, players must memorize the rooms tha
   + Interactive GUI for player input and feedback
 
 #### [Project Video 1](https://drive.google.com/file/d/1Hv9FRHGapmMuh2YJPzhW9YzlhMZfAjlx/view?usp=sharing)
-    [Project Video 2](https://drive.google.com/file/d/1pIvV9TPmFaFpcf55Xzan4YlX_XgmgEmT/view?usp=sharing)
+#### [Project Video 2](https://drive.google.com/file/d/1pIvV9TPmFaFpcf55Xzan4YlX_XgmgEmT/view?usp=sharing)
 
 ---
 ### Contact

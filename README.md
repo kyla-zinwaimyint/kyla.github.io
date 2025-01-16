@@ -6,6 +6,7 @@ Below, you'll find an overview of each project I've developed using Unreal Engin
 - [Projects Overview](#projects-overview)
   - [MetaHuman VR Research Project](#metahuman-vr-research-project)
   - [Horror Game Project](#horror-game-project)
+  - [Mini Games Project](#Mini-Games)
   - [Mini Arcade Machine Project](#mini-arcade-machine-project)
 - [Contact](#contact)
 
@@ -70,6 +71,19 @@ that will find you and catch you. To escape, players must memorize the rooms tha
 
 #### Gamplay Video
 https://drive.google.com/file/d/1e9SB8PF8phzpCXCmJXucDg8Nngt0fY0z/view?usp=sharing
+
+---
+### Horror Game Project
+#### Overview
++ **Genre**: Horror/ Thriller
++ **Platform**: Developed using Unreal Engine 5.4.2 (Blueprint and C++ with Rider)
+  
+**Description**: This is my very first game developed as a final project for my Game Development Course. This project is a first person atmospheric horror game
+that immerses players in a chilling world where they are trapped until they find the hidden key. There are two levels, the Human World and the Parallel World. 
+In Human World, the players have to find the key and avoid the hidden trigger areas which could lead them to the Parallel World. In Parallel World, there's a horrific creature 
+that will find you and catch you. To escape, players must memorize the rooms that have trigger areas and find the key in the Human World. 
+
+#### Gamplay Video
 
 ---
 ### Mini Arcade Machine Project

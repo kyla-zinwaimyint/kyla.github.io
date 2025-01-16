@@ -1,12 +1,10 @@
-# Site Settings
 title: "Kyla's Portfolio"
-description: "Welcome to my portfolio showcasing my game development projects, research, and VR game development work."
-author:
-  name: "Zin Wai (Kyla) Myint"
-  email: "zinwaimyint23@gmail.com"
-  location: "Vancouver, Canada"
-  pronouns: "she/her"
-  photo: ./assets/IMG_1195.jpg 
-  bio: "Game Developer | VR Researcher | ESL Learning Enthusiast"
+description: "Hi! I'm Kyla, a second-year Computer Science student at Douglas college. I love to play games, create games
+and also watch other people play games. I’m passionate about playing games, creating games, and even watching others play. 
+I believe that creativity and curiosity are the driving forces that push the boundaries of what’s possible.
 
-theme: jekyll-theme-cayman
+  name:               Zin Wai (Kyla) Myint
+  email:              zinwaimyint23@gmail.com
+  technical skills:   Assembly, C, C++, C#, Java, Python"
+
+theme: jekyll-theme-minimal

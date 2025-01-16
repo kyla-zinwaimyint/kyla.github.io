@@ -89,20 +89,6 @@ https://drive.google.com/file/d/1NRaIfSvjsEWrx9YyGxCKQWXgRMCgCtib/view?usp=shari
   
 **Description**: This mini arcade machine is a group project from my Raspberry Pi course. Our purpose is to demonstrate the integration of hardware components with Raspberry Pi, to create an interactive and entertaining game. The project emphasizes programming skills in Python for game logic and system control and we want to showcase a fun and engaging experience for players while highlighting the versatility and potential of Raspberry Pi in gaming applications. 
 
-#### Key Features
-+ **Memorization Mechanics**:
-  + The game challenges players to memorize the locations of trigger areas throughout the environment, as each time they return from the Parallel World,
-    the game restarts, requiring them to navigate their surroundings anew.
-  + This adds an extra layer of gameplay complexity.
-+ **Dynamic Enemy Encounters**:
-  + Features a gripping animation where the enemy catches the player, lifting them by the neck and delivering a brutal strike, enhancing the horror experience and
-    immersing players in the intensity of the chase.
-+ **Enemy AI Setup**:
-  + The enemy is equipped with AI that allows it to wander throughout the level, actively searching for and catching the player, creating unpredictable encounters
-    that heighten tension.
-+ **Atmospheric Design**:
-  + Utilizes unsettling soundscrapes and visually haunting environment to create a tense atmosphere that keeps players on edge.
-
 #### Gameplay Mechanics
 + The mini arcade game is a multi-player game and has two game modes which is Versus mode and 3-pt Contest mode.
 + After the players choose the game mode, they can enter their names and the game will start.
